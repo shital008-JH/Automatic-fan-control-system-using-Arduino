@@ -68,6 +68,9 @@ Fan is connected to **OUT1/OUT2** of L293D.
 ✅ Serial Monitor Output  
 ✅ Expandable for IoT Applications  
 
+
+### Note:
+This project was developed as a group collaboration, with responsibilities shared among team members.
 ---
 
 
